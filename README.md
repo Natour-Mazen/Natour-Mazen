@@ -7,7 +7,7 @@
 
 * 👋 Hi, I’m Mazen
 * 👀 I’m interested in Gaming development, Web development, software development ...
-* 🌱 I'm currently learning a lot in my computer science degree and I'm here to share it with you
+* 🌱 I'm currently learning a lot in my Master's degree in computer science, and I'm here to share my experiences with you
 * 😄 If you have any tips/advice about Gaming development, do not hesitate, give it to me !
 * 💞️ Have fun !
 
