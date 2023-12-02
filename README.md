@@ -5,11 +5,11 @@
 
 ### Hi there 👋
 
-* 👋 Hi, I’m Mazen
-* 👀 I’m interested in Gaming development, Web development, software development ...
-* 🌱 I'm currently learning a lot in my Master's degree in computer science, and I'm here to share my experiences with you
-* 😄 If you have any tips/advice about Gaming development, do not hesitate, give it to me !
-* 💞️ Have fun !
+* 👋 Hi, I’m Mazen.
+* 👀 I’m interested in game development, web development, software development...
+* 🌱 I'm currently learning a lot in my Master's degree in computer science, and I'm here to share my experiences with you.
+* 😄 If you have any tips/advice about game development, do not hesitate to share them with me!
+* 💞️ Have fun!
 
 
 ## Languages
