@@ -36,6 +36,7 @@
 ## Minute jokes
 &nbsp;&nbsp;&nbsp; ![Carte de blagues](https://readme-jokes.vercel.app/api) 
 
+
 <!--
 Here are some ideas to get you started:
 
