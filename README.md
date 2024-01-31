@@ -32,11 +32,14 @@
 |---------
 ![GIT](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)|
 
+## Stats
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Al-Natour-Mazen&layout=compact)
+[![Mazen's GitHub stats](https://github-readme-stats.vercel.app/api?username=Al-Natour-Mazen)](https://github.com/Al-Natour-Mazen/github-readme-stats)
+
 ## Minute jokes
 ![Carte de blagues](https://readme-jokes.vercel.app/api)
 
 ![Compteur de vues de profil](https://komarev.com/ghpvc/?username=Al-Natour-Mazen)
-
 
 
 
