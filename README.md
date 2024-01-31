@@ -34,7 +34,7 @@
 ![Compteur de vues de profil](https://komarev.com/ghpvc/?username=Al-Natour-Mazen)
 
 ## Minute jokes
-![Carte de blagues](https://readme-jokes.vercel.app/api) &nbsp; &nbsp; [![Readme Quotes](https://dev-humor.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+&nbsp;&nbsp;&nbsp; ![Carte de blagues](https://readme-jokes.vercel.app/api) 
 
 
 
