@@ -35,6 +35,7 @@
 ## Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Al-Natour-Mazen&layout=compact)
 [![Mazen's GitHub stats](https://github-readme-stats.vercel.app/api?username=Al-Natour-Mazen)](https://github.com/Al-Natour-Mazen/github-readme-stats)
+![Mazen's GitHub stats](https://github-readme-stats.vercel.app/api?username=Al-Natour-Mazen&show_icons=true&theme=radical)
 
 ## Minute jokes
 ![Carte de blagues](https://readme-jokes.vercel.app/api)
