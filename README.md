@@ -28,10 +28,10 @@
 ![IntelliJ_IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white) ![PHPStorm](http://img.shields.io/badge/-PHPStorm-000000?style=for-the-badge&logo=phpstorm&logoColor=white) ![PyCharm](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white) ![CLion](https://img.shields.io/badge/CLion-000000?style=for-the-badge&logo=clion&logoColor=white) ![WebStorm](https://img.shields.io/badge/WebStorm-000000?style=for-the-badge&logo=WebStorm&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)  ![Visual_Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white) ![Visual_Studio_Code](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white) ![GIT](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)  
 
 ## Stats
-![Mazen's GitHub stats](https://github-readme-stats.vercel.app/api?username=Al-Natour-Mazen&show_icons=true&theme=radical)  &nbsp;  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Al-Natour-Mazen&layout=compact&theme=radical)   
+![Mazen's GitHub stats](https://github-readme-stats.vercel.app/api?username=Natour-Mazen&show_icons=true&theme=radical)  &nbsp;  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Natour-Mazen&layout=compact&theme=radical)   
 
 
-![Compteur de vues de profil](https://komarev.com/ghpvc/?username=Al-Natour-Mazen)
+![Compteur de vues de profil](https://komarev.com/ghpvc/?username=Natour-Mazen)
 
 ## Minute jokes
 &nbsp;&nbsp;&nbsp; ![Carte de blagues](https://readme-jokes.vercel.app/api) 
