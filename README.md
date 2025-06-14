@@ -6,9 +6,9 @@
 
 <h1 align="center">Hi there !  I'm Mazen  <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/Hi.gif" width="30px"></h1>
 
-* 👀 I’m interested in game development, web development, software development...
+* 👀 I’m interested in web development, software development...
 * 🌱 I'm currently learning a lot in my Master's degree in computer science, and I'm here to share my experiences with you.
-* 😄 If you have any tips/advice about game development, do not hesitate to share them with me!
+* 😄 If you have any tips/advice, do not hesitate to share them with me!
 * 💞️ Have fun!
 
 
